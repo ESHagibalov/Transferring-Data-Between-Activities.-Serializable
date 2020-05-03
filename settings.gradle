@@ -1,0 +1,2 @@
+rootProject.name='Activities_connection'
+include ':app'
